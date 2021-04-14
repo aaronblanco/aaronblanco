@@ -4,7 +4,7 @@ I'm Aarón, student from the University of Almería and also Sys.Admin.
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronblanco)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronblanco&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aaronblanco/aaronblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
