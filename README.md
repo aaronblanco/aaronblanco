@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Aarón, student from the University of Almería and also Sys.Admin.
+I'm Aarón, student from the University of Almería and also Sys.Admin. 😎
 
 
 
@@ -9,6 +9,8 @@ I'm Aarón, student from the University of Almería and also Sys.Admin.
 I use different languages, i'm prepare for everything.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronblanco&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+Don't blame me for the HTML, it's from my final project with the pepper robot. 🤖
 <!--
 **aaronblanco/aaronblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
