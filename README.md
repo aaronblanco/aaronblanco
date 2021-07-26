@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Aarón, student from the University of Almería and also Sys.Admin. 😎
+I'm Aarón, dev in C#, with an degree and also Sys.Admin. 😎
 
 
 
